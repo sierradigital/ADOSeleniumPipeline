@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[User Name:m.nath@sierradigitalinc.comand Password :Sierra@2023]]>
+    </line>
+    <line>
+      <![CDATA[User Name:m.nath@sierradigitalinc.comand Password :Sierra@2023]]>
+    </line>
+    <line>
+      <![CDATA[User Name:m.nath@sierradigitalinc.comand Password :Sierra@2023]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-07-14T15:50:08Z" name="HouPerProject suite" finished-at="2023-07-14T15:50:38Z" duration-ms="30485">
+    <groups>
+    </groups>
+    <test started-at="2023-07-14T15:50:08Z" name="Login Test-0" finished-at="2023-07-14T15:50:33Z" duration-ms="24515">
+      <class name="com.qa.houpermitproject.tests.LoginPage_HouPerTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.houpermitproject.tests.LoginPage_HouPerTest@7f3c0399]" started-at="2023-07-14T15:50:09Z" name="setUp" finished-at="2023-07-14T15:50:20Z" duration-ms="11351" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyLoginToHouPerSiteTest(java.lang.String, java.lang.String)[pri:0, instance:com.qa.houpermitproject.tests.LoginPage_HouPerTest@7f3c0399]" started-at="2023-07-14T15:50:20Z" name="verifyLoginToHouPerSiteTest" data-provider="getTestData" finished-at="2023-07-14T15:50:29Z" duration-ms="8481" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[m.nath@sierradigitalinc.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Sierra@2023]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[User Name:m.nath@sierradigitalinc.comand Password :Sierra@2023]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyLoginToHouPerSiteTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.houpermitproject.tests.LoginPage_HouPerTest@7f3c0399]" started-at="2023-07-14T15:50:29Z" name="tearDown" finished-at="2023-07-14T15:50:32Z" duration-ms="3431" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.houpermitproject.tests.LoginPage_HouPerTest -->
+    </test> <!-- Login Test-0 -->
+    <test started-at="2023-07-14T15:50:08Z" name="Login Test-1" finished-at="2023-07-14T15:50:38Z" duration-ms="29612">
+      <class name="com.qa.houpermitproject.tests.LoginPage_HouPerTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.houpermitproject.tests.LoginPage_HouPerTest@66f16742]" started-at="2023-07-14T15:50:09Z" name="setUp" finished-at="2023-07-14T15:50:20Z" duration-ms="11679" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyLoginToHouPerSiteTest(java.lang.String, java.lang.String)[pri:0, instance:com.qa.houpermitproject.tests.LoginPage_HouPerTest@66f16742]" started-at="2023-07-14T15:50:20Z" name="verifyLoginToHouPerSiteTest" data-provider="getTestData" finished-at="2023-07-14T15:50:34Z" duration-ms="13720" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[m.nath@sierradigitalinc.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Sierra@2023]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[User Name:m.nath@sierradigitalinc.comand Password :Sierra@2023]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyLoginToHouPerSiteTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.houpermitproject.tests.LoginPage_HouPerTest@66f16742]" started-at="2023-07-14T15:50:35Z" name="tearDown" finished-at="2023-07-14T15:50:38Z" duration-ms="3034" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.houpermitproject.tests.LoginPage_HouPerTest -->
+    </test> <!-- Login Test-1 -->
+    <test started-at="2023-07-14T15:50:08Z" name="Login Test-2" finished-at="2023-07-14T15:50:38Z" duration-ms="30485">
+      <class name="com.qa.houpermitproject.tests.LoginPage_HouPerTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.houpermitproject.tests.LoginPage_HouPerTest@3fde2209]" started-at="2023-07-14T15:50:09Z" name="setUp" finished-at="2023-07-14T15:50:26Z" duration-ms="16975" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyLoginToHouPerSiteTest(java.lang.String, java.lang.String)[pri:0, instance:com.qa.houpermitproject.tests.LoginPage_HouPerTest@3fde2209]" started-at="2023-07-14T15:50:26Z" name="verifyLoginToHouPerSiteTest" data-provider="getTestData" finished-at="2023-07-14T15:50:35Z" duration-ms="9475" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[m.nath@sierradigitalinc.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Sierra@2023]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[User Name:m.nath@sierradigitalinc.comand Password :Sierra@2023]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyLoginToHouPerSiteTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.houpermitproject.tests.LoginPage_HouPerTest@3fde2209]" started-at="2023-07-14T15:50:35Z" name="tearDown" finished-at="2023-07-14T15:50:38Z" duration-ms="3178" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.houpermitproject.tests.LoginPage_HouPerTest -->
+    </test> <!-- Login Test-2 -->
+  </suite> <!-- HouPerProject suite -->
+</testng-results>

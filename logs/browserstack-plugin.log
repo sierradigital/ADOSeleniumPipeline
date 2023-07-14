@@ -1,0 +1,89 @@
+10:39:01.142 [main] INFO  c.b.launchers.LaunchMavenCommand - Executing maven archetype command - browserstack-sdk-archetype-integrate
+10:39:01.164 [main] INFO  c.b.launchers.LaunchMavenCommand - The maven properties for launcher are [archetypeVersion=1.2, archetypeGroupId=com.browserstack, archetypeArtifactId=browserstack-sdk-archetype-integrate, BROWSERSTACK_ACCESS_KEY=Rs63VPxnHjFLmbWrptrK, groupId=com.browserstack, artifactId=java-archetype-integrate, BROWSERSTACK_USERNAME=taylorbullard_4ZK18P, BROWSERSTACK_FRAMEWORK=testng, BUILD_NAME=browserstack build, version=1.0, PROJECT_NAME=BrowserStack Sample, BROWSERSTACK_SOURCE=testng:eclipse:v1.0.3]
+10:39:01.178 [Worker-39: Launching mavenrun-1b3dcd6a-4847-4d9e-8190-871ab0cafed9] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+10:41:12.172 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+10:41:12.172 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+10:41:12.172 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/HouPermitProject
+10:41:12.173 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+10:41:12.173 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+10:41:12.173 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/HouPermitProject
+10:44:07.420 [Worker-39: Launching HouPermitProject_src.resources.runners.testng_electricalLicense.xml] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+10:44:07.421 [Worker-39: Launching HouPermitProject_src.resources.runners.testng_electricalLicense.xml] ERROR c.b.BrowserStackPluginActivator - Error in setJavaAgentVMArgs - java.util.regex.PatternSyntaxException: Illegal/unsupported escape sequence near index 16
+ -javaagent:'C:\Users\Taylor Bullard\.m2\repository\com\browserstack\browserstack-java-sdk\1.8.5\browserstack-java-sdk-1.8.5.jar'
+                ^
+10:44:07.424 [Worker-39: Launching HouPermitProject_src.resources.runners.testng_electricalLicense.xml] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+10:46:12.344 [Worker-44: Launching HouPermitProject_src.resources.runners.testng_electricalLicense.xml] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+10:46:12.346 [Worker-44: Launching HouPermitProject_src.resources.runners.testng_electricalLicense.xml] ERROR c.b.BrowserStackPluginActivator - Error in setJavaAgentVMArgs - java.util.regex.PatternSyntaxException: Illegal/unsupported escape sequence near index 16
+ -javaagent:'C:\Users\Taylor Bullard\.m2\repository\com\browserstack\browserstack-java-sdk\1.8.5\browserstack-java-sdk-1.8.5.jar'
+                ^
+10:46:12.350 [Worker-44: Launching HouPermitProject_src.resources.runners.testng_electricalLicense.xml] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+10:46:12.457 [Worker-44: Launching HouPermitProject_src.resources.runners.testng_electricalLicense.xml] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+10:46:33.037 [Worker-48: Launching HouPermitProject_src.resources.runners.testng_electricalLicense.xml] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+10:46:33.038 [Worker-48: Launching HouPermitProject_src.resources.runners.testng_electricalLicense.xml] ERROR c.b.BrowserStackPluginActivator - Error in setJavaAgentVMArgs - java.util.regex.PatternSyntaxException: Illegal/unsupported escape sequence near index 16
+ -javaagent:'C:\Users\Taylor Bullard\.m2\repository\com\browserstack\browserstack-java-sdk\1.8.5\browserstack-java-sdk-1.8.5.jar'
+                ^
+10:49:27.495 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+10:49:27.495 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+10:49:27.496 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/HouPermitProject
+10:49:27.496 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+10:49:27.496 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+10:49:27.497 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/HouPermitProject
+10:49:41.424 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+10:49:41.424 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+10:49:41.425 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/HouPermitProject
+10:49:41.425 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+10:49:41.425 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+10:49:41.427 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/HouPermitProject
+10:49:52.514 [Worker-48: Launching Executing install in C__Users_Taylor Bullard_Desktop_HOUPermitProject.git] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+10:51:15.107 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+10:51:15.107 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+10:51:15.109 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/HouPermitProject
+10:51:15.110 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+10:51:15.110 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+10:51:15.111 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/HouPermitProject
+10:51:21.442 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+10:51:21.442 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+10:51:21.443 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/HouPermitProject
+10:51:21.443 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+10:51:21.443 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+10:51:21.444 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/HouPermitProject
+11:54:05.056 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+11:54:05.058 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+11:54:05.059 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/HouPermitProject
+11:54:05.059 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+11:54:05.059 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+11:54:05.060 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/HouPermitProject
+12:01:06.365 [Worker-75: Launching HouPerPro_src.resources.runners.testng_applypermitatbackoffice.xml] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+12:01:06.373 [Worker-75: Launching HouPerPro_src.resources.runners.testng_applypermitatbackoffice.xml] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+12:02:19.665 [Worker-74: Launching HouPerPro_src.resources.runners.testng_applypermitatbackoffice.xml] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+12:02:19.670 [Worker-74: Launching HouPerPro_src.resources.runners.testng_applypermitatbackoffice.xml] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+12:04:19.378 [Worker-78: Launching HouPerPro_src.resources.runners.testng_rhythm_applymechanicalpermit.xml] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+12:04:19.391 [Worker-78: Launching HouPerPro_src.resources.runners.testng_rhythm_applymechanicalpermit.xml] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+12:05:35.609 [Worker-75: Launching HouPerPro_src.resources.runners.testng_payfees.xml] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+12:05:35.622 [Worker-75: Launching HouPerPro_src.resources.runners.testng_payfees.xml] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+12:07:40.954 [Worker-79: Launching HouPerPro_src.resources.runners.testng_payfees.xml] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+12:07:40.959 [Worker-79: Launching HouPerPro_src.resources.runners.testng_payfees.xml] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+12:12:11.104 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+12:12:11.105 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:12:11.106 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/HouPerPro
+12:12:11.106 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+12:12:11.106 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:12:11.107 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/HouPerPro
+12:13:14.029 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+12:13:14.029 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:13:14.030 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/HouPerPro
+12:13:14.030 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+12:13:14.030 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:13:14.031 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/HouPerPro
+12:13:28.374 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+12:13:28.375 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:13:28.376 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/HouPerPro
+12:13:28.377 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+12:13:28.377 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:13:28.378 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/HouPerPro
+13:21:07.176 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+13:21:07.176 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+13:21:07.177 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/HouPermitProject
+13:21:07.178 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+13:21:07.178 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+13:21:07.178 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/HouPermitProject
